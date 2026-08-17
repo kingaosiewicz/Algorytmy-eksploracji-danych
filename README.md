@@ -2,10 +2,6 @@
 
 Notebook Jupyter w Pythonie prezentujący wybrane algorytmy Machine Learning z zakresu eksploracji danych — z wizualizacją wyników na rzeczywistych zbiorach danych.
 
-📓 **[Otwórz notebook](https://github.com/kingaosiewicz/Algorytmy-eksploracji-danych/blob/main/Techniki%20redukcji%20wymiar%C3%B3w%2C%20Klasteryzacja%2C%20Klasyfikacja%2C%20Regu%C5%82y%20asocjacyjne.ipynb)**
-
----
-
 ## Zawartość
 
 ### 1. Techniki redukcji wymiarów
