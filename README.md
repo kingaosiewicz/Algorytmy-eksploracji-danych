@@ -59,9 +59,3 @@ Notebook Jupyter w Pythonie prezentujący wybrane algorytmy Machine Learning z z
 pip install jupyter pandas numpy matplotlib seaborn scikit-learn gdown
 jupyter notebook
 ```
-
----
-
-## Autor
-
-**Kinga Osiewicz**
